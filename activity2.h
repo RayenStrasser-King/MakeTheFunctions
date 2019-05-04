@@ -3,7 +3,7 @@
 
 #include "activity1.h"
 
-using namespace srd;
+using namespace std;
 
 class Square : public Shape
 {
